@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\bin\Debug\net8.0\Observer.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\bin\Debug\net8.0\Observer.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\bin\Debug\net8.0\Observer.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\bin\Debug\net8.0\Observer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\bin\Debug\net8.0\Observer.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\refint\Observer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\Observer.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Observer\obj\Debug\net8.0\ref\Observer.dll
