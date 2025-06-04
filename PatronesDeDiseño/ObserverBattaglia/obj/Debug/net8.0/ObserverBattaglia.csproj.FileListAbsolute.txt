@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\bin\Debug\net8.0\ObserverBattaglia.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\bin\Debug\net8.0\ObserverBattaglia.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\bin\Debug\net8.0\ObserverBattaglia.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\bin\Debug\net8.0\ObserverBattaglia.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\bin\Debug\net8.0\ObserverBattaglia.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\refint\ObserverBattaglia.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ObserverBattaglia.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ObserverBattaglia\obj\Debug\net8.0\ref\ObserverBattaglia.dll
