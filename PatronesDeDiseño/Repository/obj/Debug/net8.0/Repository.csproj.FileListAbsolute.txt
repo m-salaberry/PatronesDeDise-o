@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\bin\Debug\net8.0\Repository.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\bin\Debug\net8.0\Repository.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Repository\obj\Debug\net8.0\ref\Repository.dll
