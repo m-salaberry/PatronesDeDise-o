@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\bin\Debug\net8.0\Practica.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\bin\Debug\net8.0\Practica.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\bin\Debug\net8.0\Practica.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\bin\Debug\net8.0\Practica.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\bin\Debug\net8.0\Practica.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\refint\Practica.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\Practica.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Practica\obj\Debug\net8.0\ref\Practica.dll
