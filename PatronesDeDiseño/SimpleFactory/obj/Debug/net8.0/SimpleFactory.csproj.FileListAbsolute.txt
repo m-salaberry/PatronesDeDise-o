@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\bin\Debug\net8.0\SimpleFactory.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\bin\Debug\net8.0\SimpleFactory.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\bin\Debug\net8.0\SimpleFactory.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\bin\Debug\net8.0\SimpleFactory.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\bin\Debug\net8.0\SimpleFactory.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\refint\SimpleFactory.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\SimpleFactory.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\SimpleFactory\obj\Debug\net8.0\ref\SimpleFactory.dll
