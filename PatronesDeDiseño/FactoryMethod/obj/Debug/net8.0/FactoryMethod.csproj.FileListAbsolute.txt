@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
