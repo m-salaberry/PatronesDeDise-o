@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsability", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{AD87AF1C-6E3E-40AA-8A46-55202A39B57B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeEjemplo2", "CompositeEjemplo2\CompositeEjemplo2.csproj", "{8D2DDFA4-C0A1-45E2-96FD-F160C609A7FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{AD87AF1C-6E3E-40AA-8A46-55202A39B57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD87AF1C-6E3E-40AA-8A46-55202A39B57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD87AF1C-6E3E-40AA-8A46-55202A39B57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2DDFA4-C0A1-45E2-96FD-F160C609A7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2DDFA4-C0A1-45E2-96FD-F160C609A7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2DDFA4-C0A1-45E2-96FD-F160C609A7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2DDFA4-C0A1-45E2-96FD-F160C609A7FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
