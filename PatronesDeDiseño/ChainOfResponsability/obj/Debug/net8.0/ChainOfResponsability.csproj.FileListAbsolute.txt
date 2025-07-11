@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\refint\ChainOfResponsability.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\ChainOfResponsability\obj\Debug\net8.0\ref\ChainOfResponsability.dll
