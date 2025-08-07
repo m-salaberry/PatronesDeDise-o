@@ -1,0 +1,6 @@
+[2025-07-11 18:51:33] [INFO] La aplicación se ha iniciado correctamente.
+[2025-07-11 18:51:33] [INFO] Procesando datos para el usuario: 12345
+[2025-07-11 18:51:33] [WARNING] Se ha detectado una posible división por cero. Intentando operación...
+[2025-07-11 18:51:33] [ERROR] Se produjo un error al intentar dividir por cero. DivideByZeroException: Attempted to divide by zero.
+   at Logger.Program.Main(String[] args) in C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\Program.cs:line 32
+[2025-07-11 18:51:33] [INFO] Proceso completado para el usuario: 12345. Registros procesados: 500

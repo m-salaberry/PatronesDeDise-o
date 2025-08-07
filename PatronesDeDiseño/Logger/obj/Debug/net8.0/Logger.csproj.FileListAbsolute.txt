@@ -1,0 +1,15 @@
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\bin\Debug\net8.0\Logger.exe
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+C:\Users\Navegador\Desktop\Practica\PatronesDeDise-o\PatronesDeDiseño\Logger\obj\Debug\net8.0\ref\Logger.dll
