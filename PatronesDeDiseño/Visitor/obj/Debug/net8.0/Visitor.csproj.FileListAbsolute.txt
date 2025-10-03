@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\bin\Debug\net8.0\Visitor.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\bin\Debug\net8.0\Visitor.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\bin\Debug\net8.0\Visitor.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\bin\Debug\net8.0\Visitor.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Visitor\obj\Debug\net8.0\ref\Visitor.dll
