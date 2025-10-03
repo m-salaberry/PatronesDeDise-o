@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\bin\Debug\net8.0\State.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\bin\Debug\net8.0\State.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\bin\Debug\net8.0\State.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\bin\Debug\net8.0\State.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\bin\Debug\net8.0\State.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\refint\State.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\State\obj\Debug\net8.0\ref\State.dll
