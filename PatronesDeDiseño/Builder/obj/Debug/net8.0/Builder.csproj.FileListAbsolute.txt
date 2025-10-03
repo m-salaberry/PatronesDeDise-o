@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\bin\Debug\net8.0\Builder.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\bin\Debug\net8.0\Builder.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\bin\Debug\net8.0\Builder.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Builder\obj\Debug\net8.0\ref\Builder.dll
