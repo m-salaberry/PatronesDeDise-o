@@ -1,0 +1,15 @@
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.exe
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.deps.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.runtimeconfig.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.AssemblyInfoInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.AssemblyInfo.cs
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.csproj.CoreCompileInputs.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.sourcelink.json
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\refint\Producer-Consumer.dll
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.pdb
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.genruntimeconfig.cache
+D:\Facultad\Practica\PatronesDeDise-o\PatronesDeDiseño\Producer-Consumer\obj\Debug\net8.0\ref\Producer-Consumer.dll
